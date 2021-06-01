@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simpleray-calculator/static/css/main.9612497a.chunk.css",
+    "main.js": "/simpleray-calculator/static/js/main.709faeb8.chunk.js",
+    "main.js.map": "/simpleray-calculator/static/js/main.709faeb8.chunk.js.map",
+    "runtime-main.js": "/simpleray-calculator/static/js/runtime-main.2c638ee9.js",
+    "runtime-main.js.map": "/simpleray-calculator/static/js/runtime-main.2c638ee9.js.map",
+    "static/js/2.20994189.chunk.js": "/simpleray-calculator/static/js/2.20994189.chunk.js",
+    "static/js/2.20994189.chunk.js.map": "/simpleray-calculator/static/js/2.20994189.chunk.js.map",
+    "static/js/3.f01a9faf.chunk.js": "/simpleray-calculator/static/js/3.f01a9faf.chunk.js",
+    "static/js/3.f01a9faf.chunk.js.map": "/simpleray-calculator/static/js/3.f01a9faf.chunk.js.map",
+    "index.html": "/simpleray-calculator/index.html",
+    "static/css/main.9612497a.chunk.css.map": "/simpleray-calculator/static/css/main.9612497a.chunk.css.map",
+    "static/js/2.20994189.chunk.js.LICENSE.txt": "/simpleray-calculator/static/js/2.20994189.chunk.js.LICENSE.txt",
+    "static/media/house-with-solar-panels.1cb6870f.png": "/simpleray-calculator/static/media/house-with-solar-panels.1cb6870f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c638ee9.js",
+    "static/js/2.20994189.chunk.js",
+    "static/css/main.9612497a.chunk.css",
+    "static/js/main.709faeb8.chunk.js"
+  ]
+}
