@@ -1,0 +1,84 @@
+.projectSelect{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.projectSelect img{
+    width: 430px;
+    height: 276px;
+}
+
+.projectsInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 245px;
+    height: 192px;
+    margin: 0 53px 0 52px;
+    box-shadow: 0 4px 4px rgba(112, 112, 112, 0.25);
+    border-radius: 4px;
+}
+
+.sizeSelect{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    height: 192px;
+    justify-content: space-between;
+}
+
+.sizeSelect div{
+    width: 132px;
+    height: 36px;
+    line-height: 27px;
+    font-size: 16px;
+    color: rgba(28, 31, 42, 1);
+    font-weight: 500;
+    background: #C0C2C6;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.sizeSelect div:hover{
+    background: #FFC600;
+    cursor: pointer;
+}
+
+.sizeSelect div:read-write{
+    background: #FFC600;
+    cursor: pointer;
+}
+
+
+
+.info{
+    width: 219px;
+    height: 118px;
+    border: 1px solid #C0C2C6;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+
+    color: #5D6068;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.yellowMark{
+    width: 68px;
+    height: 2px;
+    border: 1px solid #FFC600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 19px;
+}
+.projectsInfo label{
+    font-size: 20px;
+    line-height: 27px;
+    color: #3C3F49;
+}
